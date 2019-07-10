@@ -1,3 +1,3 @@
 echo "Hello World: %date% : %time%"
 
-I am in Master
+echo "I am in Master"
